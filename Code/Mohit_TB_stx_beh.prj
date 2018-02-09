@@ -1,0 +1,4 @@
+vhdl isim_temp "ipcore_dir/FIFO_MOHIT_Project.vhd"
+vhdl isim_temp "FILTER_PROCESS.vhd"
+vhdl isim_temp "Cache_Menory.vhd"
+vhdl isim_temp "Mohit_TB.vhd"

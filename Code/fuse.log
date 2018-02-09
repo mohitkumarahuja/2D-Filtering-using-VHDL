@@ -1,0 +1,68 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/Mohit_TB_isim_beh.exe -prj C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/Mohit_TB_beh.prj work.Mohit_TB 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/ipcore_dir/FIFO_MOHIT_Project.vhd" into library work
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/ipcore_dir/MULTIPLEXER.vhd" into library work
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/ipcore_dir/DIVIDER.vhd" into library work
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/ipcore_dir/ADDER.vhd" into library work
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/RisingEdge_DFlipFlop.vhd" into library work
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/FILTER_PROCESS.vhd" into library work
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/Cache_Menory.vhd" into library work
+Parsing VHDL file "C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/Mohit_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package textio
+Compiling package std_logic_textio
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity fifo_generator_v9_3_bhv_ss [\fifo_generator_v9_3_bhv_ss(10,8...]
+Compiling architecture behavioral of entity fifo_generator_v9_3_conv [\fifo_generator_v9_3_conv(1,0,10...]
+Compiling architecture behavioral of entity fifo_generator_v9_3 [\fifo_generator_v9_3(1,0,10,"Bla...]
+Compiling architecture fifo_mohit_project_a of entity FIFO_MOHIT_Project [fifo_mohit_project_default]
+Compiling architecture behavioral of entity Cache_Menory [cache_menory_default]
+Compiling package vcomponents
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling package std_logic_signed
+Compiling package bip_utils_pkg_v2_0
+Compiling package mult_gen_pkg_v11_2
+Compiling architecture behavioral of entity mult_gen_v11_2 [\mult_gen_v11_2(0,0,"aartix7",8,...]
+Compiling architecture multiplexer_a of entity MULTIPLEXER [multiplexer_default]
+Compiling package xbip_addsub_v2_0_comp
+Compiling package bip_usecase_utils_pkg_v2_0
+Compiling package c_addsub_pkg_v11_0
+Compiling package xbip_pipe_v2_0_xst_comp
+Compiling package c_reg_fd_v11_0_comp
+Compiling architecture behavioral of entity c_reg_fd_v11_0 [\c_reg_fd_v11_0(16,"0","0",1,0,1...]
+Compiling architecture behavioral of entity c_addsub_v11_0_legacy [\c_addsub_v11_0_legacy(16,16,16,...]
+Compiling architecture behavioral of entity c_addsub_v11_0 [\c_addsub_v11_0(0,"aartix7",0,16...]
+Compiling architecture adder_a of entity ADDER [adder_default]
+Compiling architecture behavioral of entity RisingEdge_DFlipFlop [risingedge_dflipflop_default]
+Compiling architecture fde_v of entity FDE [\FDE('0')\]
+Compiling architecture srlc32e_v of entity SRLC32E [\SRLC32E("0000000000000000000000...]
+Compiling architecture srlc16e_v of entity SRLC16E [\SRLC16E("0000000000000001")(0,1...]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture lut1_v of entity LUT1 [\LUT1("0010")(0,3)\]
+Compiling architecture lut3_v of entity LUT3 [\LUT3("10010110")(0,7)\]
+Compiling architecture lut2_v of entity LUT2 [\LUT2("0110")(0,3)\]
+Compiling architecture fd_v of entity FD [\FD('0')\]
+Compiling architecture muxcy_v of entity MUXCY [muxcy_default]
+Compiling architecture xorcy_v of entity XORCY [xorcy_default]
+Compiling architecture mult_and_v of entity MULT_AND [mult_and_default]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture structure of entity DIVIDER [divider_default]
+Compiling architecture behavioral of entity FILTER_PROCESS [filter_process_default]
+Compiling architecture behavior of entity mohit_tb
+Time Resolution for simulation is 1ps.
+Waiting for 39 sub-compilation(s) to finish...
+Compiled 88 VHDL Units
+Built simulation executable C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/Mohit_TB_isim_beh.exe
+Fuse Memory Usage: 78724 KB
+Fuse CPU Usage: 3281 ms

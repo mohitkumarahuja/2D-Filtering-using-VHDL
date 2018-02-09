@@ -1,0 +1,2 @@
+vhdtdtfi -prj Mohit_VHDL_Project -o C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/RisingEdge_DFlipFlop.vhi -module RisingEdge_DFlipFlop -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work RisingEdge_DFlipFlop.vhd 
+vhdtdtfi -prj Mohit_VHDL_Project -o C:/Users/Anand/Desktop/Mohit_VHDL_Project/New/Mohit_VHDL_Project/Mohit_VHDL_Project/RisingEdge_DFlipFlop.vhi -module RisingEdge_DFlipFlop -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work RisingEdge_DFlipFlop.vhd 

@@ -1,0 +1,8 @@
+vhdl work "ipcore_dir/FIFO_MOHIT_Project.vhd"
+vhdl work "ipcore_dir/MULTIPLEXER.vhd"
+vhdl work "ipcore_dir/DIVIDER.vhd"
+vhdl work "ipcore_dir/ADDER.vhd"
+vhdl work "RisingEdge_DFlipFlop.vhd"
+vhdl work "FILTER_PROCESS.vhd"
+vhdl work "Cache_Menory.vhd"
+vhdl work "Mohit_TB.vhd"

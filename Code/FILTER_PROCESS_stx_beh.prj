@@ -1,0 +1,5 @@
+vhdl isim_temp "ipcore_dir/MULTIPLEXER.vhd"
+vhdl isim_temp "ipcore_dir/DIVIDER.vhd"
+vhdl isim_temp "ipcore_dir/ADDER.vhd"
+vhdl isim_temp "RisingEdge_DFlipFlop.vhd"
+vhdl isim_temp "FILTER_PROCESS.vhd"
