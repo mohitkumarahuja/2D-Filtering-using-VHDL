@@ -1,0 +1,29 @@
+Command line:
+   Mohit_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52230
+
+Thu Jan 11 09:08:17 2018
+
+
+ Elaboration Time: 0.328125 sec
+
+ Current Memory Usage: 1098.54 Meg
+
+ Total Signals          : 12560
+ Total Nets             : 35578
+ Total Signal Drivers   : 4080
+ Total Blocks           : 2762
+ Total Primitive Blocks : 2543
+ Total Processes        : 3733
+ Total Traceable Variables  : 4015
+ Total Scalar Nets and Variables : 54698
+Total Line Count : 10079
+
+ Total Simulation Time: 0.625 sec
+
+ Current Memory Usage: 941.257 Meg
+
+Thu Jan 11 09:09:42 2018
+

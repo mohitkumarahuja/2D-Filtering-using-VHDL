@@ -1,0 +1,15 @@
+# Output products list for <ADDER>
+ADDER.asy
+ADDER.gise
+ADDER.ngc
+ADDER.sym
+ADDER.vhd
+ADDER.vho
+ADDER.xco
+ADDER.xise
+ADDER\doc\c_addsub_v11_0_readme.txt
+ADDER\doc\c_addsub_v11_0_vinfo.html
+ADDER\doc\ds214_addsub.pdf
+ADDER_flist.txt
+ADDER_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
